@@ -14,7 +14,7 @@ const Home = () => {
       <Navbar />
 
       <div className="content">
-        <h1>Climate AI</h1>
+        <h1>EcoSphere Ai</h1>
         <p>Empowering you with real-time environmental insights to make better choices for a healthier planet.</p>
       </div>
 
